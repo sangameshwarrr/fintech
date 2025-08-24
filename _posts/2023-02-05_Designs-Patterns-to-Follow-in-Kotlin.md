@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Design Patterns to Follow in Kotlin"
+date: 2023-02-05
+categories: kotlin
+tags: [design-patterns, software, kotlin]
+---
+
 <!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Design Patterns to Follow in Kotlin: A Guide to Better Code</title><style>
       * {
         font-family: Georgia, Cambria, "Times New Roman", Times, serif;
